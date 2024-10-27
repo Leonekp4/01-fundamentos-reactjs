@@ -1,0 +1,3 @@
+porta: http://localhost:5173/
+
+iniciar: npm rum dev
